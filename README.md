@@ -1,2 +1,8 @@
-**DSPP PORTFOLIO**
-This is all a test
+# My Portfolio
+![Histogram](images/histogram-example-2.png)
+
+## About me
+
+## Projects
+
+
