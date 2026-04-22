@@ -1,9 +1,9 @@
 # My Portfolio
-"This is my Portfolio"
-![Histogram](images/histogram-example-2.png)
+This is my Portfolio
 
 ## About me
-[Test link](https://google.com)
-## Projects
+I am a Data Analyst Apprentice working for BPP University. Throughout my education experience I have worked on various projects both within BPP and without. My fascination with data has led to a large variety of skills being developed including Python, PowerBI and PowerAutomate skills.
 
+## Projects
+[This is a public data project I worked on, examining bias within Warhammer 40k's model production](https://github.com/DataScienceApprentice5434/Public-Data-Task/tree/main)
 
