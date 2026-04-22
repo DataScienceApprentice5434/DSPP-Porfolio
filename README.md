@@ -6,4 +6,5 @@ I am a Data Analyst Apprentice working for BPP University. Throughout my educati
 
 ## Projects
 [This is a public data project I worked on, examining bias within Warhammer 40k's model production](https://github.com/DataScienceApprentice5434/Public-Data-Task/tree/main)
+
 [This is a data project I worked on within BPP, anonymised to comply with data privacy, demonstrating some of the skills I hold](https://github.com/DataScienceApprentice5434/Internal-Data-Project/tree/main)
